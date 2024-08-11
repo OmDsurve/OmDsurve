@@ -2,9 +2,8 @@
 - 👀 I’m interested in Python and pentration testing..
 - 🌱 I’m currently learning Python..
 - 💞️ I’m looking to collaborate on Python project..
-- 📫 How to reach me..
+- 📫 How to reach me Twitter @OmSurve_12
 - 😄 Pronouns: he/him..
-- ⚡ Fun fact: ...
 
 <!---
 OmDsurve/OmDsurve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
