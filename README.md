@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OmDsurve..
-- 👀 I’m interested in Python and pentration testing..
+- 👀 I’m interested in Python and Pentration testing..
 - 🌱 I’m currently learning Python..
 - 💞️ I’m looking to collaborate on Python project..
 - 📫 How to reach me Twitter @OmSurve_12
