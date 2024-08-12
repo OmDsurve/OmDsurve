@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python project..
 - 📫 How to reach me Twitter @OmSurve_12
 - 😄 Pronouns: he/him..
-#100DaysofCode
+- 💻 #100DaysOfCode 🚀
 <!---
 OmDsurve/OmDsurve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
